@@ -9,5 +9,6 @@
 * Manipulación de archivos
 * Pre-procesamiento de archivos
 * Extracción de información
+* Clasificación de textos
 * Modelos de lenguaje
 * Modelos LLM (Llama3)
